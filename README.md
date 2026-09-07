@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @GurajalaIndu
-- 👀 I’m interested in Developer
-- 🌱 I’m currently learning Front end
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning dataBase
 - 💞️ I’m looking to collaborate on My self
 - 📫 How to reach me Email ID
 - 😄 Pronouns: His
